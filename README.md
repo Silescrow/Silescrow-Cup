@@ -8,7 +8,7 @@ Browser-Fußballspiel – alle Dateien, die das Spiel benutzt, und alle Versione
 | `02_Hauptmenue_Spielerkarten` | Kartenbilder, getrennt nach Gold / Silber / Bronze / Standard |
 | `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer |
 | `04_Geraeusche` | Stadion- und Tor-Geräusche |
-| `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze aus V 8.5 (B01-02 = Block 1, Satz 2), Block 1 bis 29; im Unterordner `Original_Aufnahmen_ElevenLabs` die Roh-Aufnahmen der neuen Blöcke |
+| `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze aus V 8.5 (B01-02 = Block 1, Satz 2), Block 1 bis 29 |
 | `06_Spiel` | aktuelles Spiel V 8.5 |
 | `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzlisten (V 6.6 und V 6.7 mit allen 666 Sätzen) |
 | `08_Alle_Versionen` | alle Spielversionen, nach V1 bis V8 sortiert (siehe unten) |
