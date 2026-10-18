@@ -9,11 +9,11 @@ Browser-Fußballspiel – alle Dateien, die das Spiel benutzt, und alle Versione
 | `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer |
 | `04_Geraeusche` | Stadion- und Tor-Geräusche |
 | `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze aus V 8.5 (B01-02 = Block 1, Satz 2), Block 1 bis 29 |
-| `06_Spiel` | aktuelles Spiel V 8.5 |
+| `06_Spiel` | aktuelles Spiel V 8.6 |
 | `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzliste V 8.5 mit allen 667 Sätzen |
 | `08_Alle_Versionen` | alle Spielversionen, nach V1 bis V8 sortiert (siehe unten) |
 
-Zum Spielen reicht `06_Spiel/SILESCROW_CUP_V8.5.html` – alle Bilder und Töne sind dort eingebaut.
+Zum Spielen reicht `06_Spiel/SILESCROW_CUP_V8.6.html` – alle Bilder und Töne sind dort eingebaut.
 Alles als eine Datei herunterladen: oben **Code → Download ZIP**.
 
 ## Alle Versionen (`08_Alle_Versionen`)
@@ -27,5 +27,5 @@ Alles als eine Datei herunterladen: oben **Code → Download ZIP**.
 | `V5` | V 5.0 und V 5.5 |
 | `V6` | V 6.0 bis V 6.9; im Unterordner `Nebenlinie_3D_Test/` die V 6.4 und V 6.5 mit 3D-Figuren-Test |
 | `V7` | V 7.0 |
-| `V8` | V 8.0, V 8.5 (aktuell) |
+| `V8` | V 8.0, V 8.5, V 8.6 (aktuell) |
 
