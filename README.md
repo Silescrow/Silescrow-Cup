@@ -6,13 +6,12 @@ Browser-Fußballspiel – alle Dateien, die das Spiel benutzt, und alle Versione
 |---|---|
 | `01_Ladebildschirm` | Bilder des Ladebildschirms |
 | `02_Hauptmenue_Spielerkarten` | Kartenbilder, getrennt nach Gold / Silber / Bronze / Standard |
-| `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer |
+| `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer; in `Figurenblaetter/` die Originalbilder aus Gemini für die 8+1-Version |
 | `04_Geraeusche` | Stadion- und Tor-Geräusche |
 | `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze aus V 8.5 (B01-02 = Block 1, Satz 2), Block 1 bis 29 |
 | `06_Spiel` | aktuelles Spiel V 8.6 |
-| `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzliste V 8.5 mit allen 667 Sätzen |
+| `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzliste V 8.5 mit allen 667 Sätzen, Figuren-Vorlagen und Prompts |
 | `08_Alle_Versionen` | alle Spielversionen, nach V1 bis V8 sortiert (siehe unten) |
-| `10_Neue_Figuren` | neue Figuren für die 8+1-Version: Originalbilder aus Gemini, einzeln ausgeschnitten, Vorlagen und Prompts |
 | `09_Testversionen` | Testversionen neben dem Hauptspiel, 11 gegen 11 auf großem Feld (11er-Test) und 8+1 auf dem D-Jugend-Feld 70 × 50 m (8+1-Test); haben nichts mit dem Hauptspiel zu tun |
 
 Zum Spielen reicht `06_Spiel/SILESCROW_CUP_V8.6.html` – alle Bilder und Töne sind dort eingebaut.
