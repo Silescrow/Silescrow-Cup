@@ -1,32 +1,15 @@
-# SILESCROW CUP
+# SILESCROW CUP 8+1
 
-Browser-Fußballspiel – alle Dateien, die das Spiel benutzt, und alle Versionen.
+Browser-Fußballspiel 8+1 auf dem D-Jugend-Feld 70 × 50 m – alle Dateien, die das Spiel benutzt, und alle Versionen.
 
 | Ordner | Inhalt |
 |---|---|
 | `01_Ladebildschirm` | Bilder des Ladebildschirms |
 | `02_Hauptmenue_Spielerkarten` | Kartenbilder, getrennt nach Gold / Silber / Bronze / Standard |
-| `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer; in `Figurenblaetter/` die Originalbilder aus Gemini für die 8+1-Version |
-| `04_Geraeusche` | Stadion- und Tor-Geräusche |
-| `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze aus V 8.5 (B01-02 = Block 1, Satz 2), Block 1 bis 29 |
-| `06_Spiel` | 5er-Spiel (5 gegen 5), letzte Version V 8.6 |
-| `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzliste V 8.5 mit allen 667 Sätzen, Figuren-Vorlagen und Prompts |
-| `08_Versionen_5er` | alle Versionen des 5er-Spiels (5 gegen 5), nach V1 bis V8 sortiert (siehe unten) |
-| `09_Versionen_8plus1` | Alle Versionen von SILESCROW CUP 8+1 (D-Jugend-Feld 70 × 50 m); die neueste läuft auch online als `index.html` |
+| `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer; in `Figurenblaetter/` die Originalbilder aus Gemini |
+| `04_Geraeusche` | Stadion- und Tor-Geräusche, Musik (Ladebildschirm, Hauptmenü) |
+| `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze (B01-02 = Block 1, Satz 2), Block 1 bis 29 |
+| `07_Dokumente` | Satzliste mit allen 667 Sätzen, Trainer-Sätze, Spielerliste, Figuren-Vorlagen und Prompts, Rasen- und Stadionbilder |
+| `09_Versionen_8plus1` | alle Versionen von SILESCROW CUP 8+1; die neueste läuft auch online als `index.html` |
 
-Zum Spielen reicht `06_Spiel/SILESCROW_CUP_5er_V8.6.html` – alle Bilder und Töne sind dort eingebaut.
-Alles als eine Datei herunterladen: oben **Code → Download ZIP**.
-
-## Alle Versionen (`08_Versionen_5er`)
-
-| Ordner | Inhalt |
-|---|---|
-| `V1` | V 1.9.1 (Startstand) |
-| `V2` | V 2.08 bis V 2.87 (aus dem Projekt-Archiv) und `Nebenlinie_V2.0_bis_V2.8/` (direkt aus V 1.9.1 weitergebaut) |
-| `V3` | V 3.00 bis V 3.70 |
-| `V4` | V 4.0 und V 4.5 |
-| `V5` | V 5.0 und V 5.5 |
-| `V6` | V 6.0 bis V 6.9; im Unterordner `Nebenlinie_3D/` die V 6.4 und V 6.5 mit 3D-Figuren |
-| `V7` | V 7.0 |
-| `V8` | V 8.0, V 8.5, V 8.6 (aktuell) |
-
+Zum Spielen reicht die neueste Datei in `09_Versionen_8plus1` – alle Bilder und Töne sind dort eingebaut.
