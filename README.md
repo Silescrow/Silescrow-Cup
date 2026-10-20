@@ -12,7 +12,7 @@ Browser-Fußballspiel – alle Dateien, die das Spiel benutzt, und alle Versione
 | `06_Spiel` | aktuelles Spiel V 8.6 |
 | `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzliste V 8.5 mit allen 667 Sätzen, Figuren-Vorlagen und Prompts |
 | `08_Alle_Versionen` | alle Spielversionen, nach V1 bis V8 sortiert (siehe unten) |
-| `09_Testversionen` | Testversionen neben dem Hauptspiel, 11 gegen 11 auf großem Feld (11er-Test) und 8+1 auf dem D-Jugend-Feld 70 × 50 m (8+1-Test); haben nichts mit dem Hauptspiel zu tun |
+| `09_Versionen_8plus1` | Alle Versionen von SILESCROW CUP 8+1 (D-Jugend-Feld 70 × 50 m); die neueste läuft auch online als `index.html` |
 
 Zum Spielen reicht `06_Spiel/SILESCROW_CUP_V8.6.html` – alle Bilder und Töne sind dort eingebaut.
 Alles als eine Datei herunterladen: oben **Code → Download ZIP**.
