@@ -9,15 +9,15 @@ Browser-Fußballspiel – alle Dateien, die das Spiel benutzt, und alle Versione
 | `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg), Schiedsrichter, Zuschauer; in `Figurenblaetter/` die Originalbilder aus Gemini für die 8+1-Version |
 | `04_Geraeusche` | Stadion- und Tor-Geräusche |
 | `05_Kommentator` | alle 667 gesprochenen Kommentator-Sätze aus V 8.5 (B01-02 = Block 1, Satz 2), Block 1 bis 29 |
-| `06_Spiel` | aktuelles Spiel V 8.6 |
+| `06_Spiel` | 5er-Spiel (5 gegen 5), letzte Version V 8.6 |
 | `07_Dokumente` | Anleitung (LIESMICH), Test-Protokoll, Satzliste V 8.5 mit allen 667 Sätzen, Figuren-Vorlagen und Prompts |
-| `08_Alle_Versionen` | alle Spielversionen, nach V1 bis V8 sortiert (siehe unten) |
+| `08_Versionen_5er` | alle Versionen des 5er-Spiels (5 gegen 5), nach V1 bis V8 sortiert (siehe unten) |
 | `09_Versionen_8plus1` | Alle Versionen von SILESCROW CUP 8+1 (D-Jugend-Feld 70 × 50 m); die neueste läuft auch online als `index.html` |
 
-Zum Spielen reicht `06_Spiel/SILESCROW_CUP_V8.6.html` – alle Bilder und Töne sind dort eingebaut.
+Zum Spielen reicht `06_Spiel/SILESCROW_CUP_5er_V8.6.html` – alle Bilder und Töne sind dort eingebaut.
 Alles als eine Datei herunterladen: oben **Code → Download ZIP**.
 
-## Alle Versionen (`08_Alle_Versionen`)
+## Alle Versionen (`08_Versionen_5er`)
 
 | Ordner | Inhalt |
 |---|---|
@@ -26,7 +26,7 @@ Alles als eine Datei herunterladen: oben **Code → Download ZIP**.
 | `V3` | V 3.00 bis V 3.70 |
 | `V4` | V 4.0 und V 4.5 |
 | `V5` | V 5.0 und V 5.5 |
-| `V6` | V 6.0 bis V 6.9; im Unterordner `Nebenlinie_3D_Test/` die V 6.4 und V 6.5 mit 3D-Figuren-Test |
+| `V6` | V 6.0 bis V 6.9; im Unterordner `Nebenlinie_3D/` die V 6.4 und V 6.5 mit 3D-Figuren |
 | `V7` | V 7.0 |
 | `V8` | V 8.0, V 8.5, V 8.6 (aktuell) |
 
