@@ -514,19 +514,20 @@ body::before{
 .hud{--tafelH:clamp(25px,3.68vw,31px)}   /* V5.8: Tafel 20 % kleiner (B4) */   /* V6.1 M1: Tafel schmaler, Höhe zentral einstellbar */
 .tafel{position:absolute;left:calc(56px + env(safe-area-inset-left,0px));top:calc(5px + env(safe-area-inset-top,0px));height:var(--tafelH);transform:none;display:flex;align-items:stretch;pointer-events:none;
   filter:drop-shadow(0 3px 0 rgba(0,0,0,.35))}
-.tafel .team{display:flex;align-items:center;gap:6px;background:#0e1b47;color:#fff;padding:0 5px;gap:3px;font-weight:800;font-size:clamp(12px,1.92vw,16px);letter-spacing:.3px;border:2px solid #0a1230}
+.tafel .team{display:flex;align-items:center;gap:6px;background:#0e1b47;color:#fff;padding:0 4px;gap:3px;font-weight:800;font-size:clamp(11px,1.65vw,14px);letter-spacing:.3px;border:2px solid #0a1230}
 .tafel .team.links{border-radius:10px 0 0 10px}
 .tafel .team.gast{border-radius:0}
-.tafel .minute{display:flex;align-items:center;background:#ffe234;color:#0b1430;padding:0 5px;font-weight:900;font-size:clamp(10px,1.6vw,14px);font-variant-numeric:tabular-nums;border:2px solid #0a1230;border-left:0;border-radius:0 10px 10px 0;white-space:nowrap}
+.tafel .minute{display:flex;align-items:center;background:#ffe234;color:#0b1430;padding:0 4px;font-weight:900;font-size:clamp(10px,1.45vw,13px);font-variant-numeric:tabular-nums;border:2px solid #0a1230;border-left:0;border-radius:0 10px 10px 0;white-space:nowrap}
 .tafel .team .fl{font-size:1em;line-height:1}
 .tafel .team .cflag{height:.95em}
-.tafel .stand{background:#ffe234;color:#0b1430;font-family:var(--display);font-size:clamp(18px,2.96vw,24px);line-height:1;padding:0 7px;letter-spacing:.5px;border-top:2px solid #0a1230;border-bottom:2px solid #0a1230;display:grid;place-items:center;min-width:2.3em}
-.uhr{position:absolute;left:auto;right:calc(104px + env(safe-area-inset-right,0px));top:calc(7px + env(safe-area-inset-top,0px));transform:none;background:#0e1b47;color:#fff;border-radius:8px;border-top:2px solid #0a1230 !important;padding-top:3px !important;padding-bottom:3px !important;
+.tafel .stand{background:#ffe234;color:#0b1430;font-family:var(--display);font-size:clamp(15px,2.5vw,20px);line-height:1;padding:0 5px;letter-spacing:0;border-top:2px solid #0a1230;border-bottom:2px solid #0a1230;display:grid;place-items:center;min-width:2em}
+.uhr{position:absolute;left:auto;right:calc(98px + env(safe-area-inset-right,0px));top:calc(10px + env(safe-area-inset-top,0px));transform:none;background:#0e1b47;color:#fff;border-radius:8px;border-top:2px solid #0a1230 !important;padding-top:3px !important;padding-bottom:3px !important;
   padding:0 11px 1px;font-weight:800;font-size:clamp(13px,2.2vw,16px);line-height:1.2;letter-spacing:.8px;pointer-events:none;border:2px solid #0a1230;border-top:0;white-space:nowrap}
 .k-hud{position:absolute;top:calc(5px + env(safe-area-inset-top,0px));width:38px;height:38px;border:3px solid #000;border-radius:10px;background:#ffe234;box-shadow:0 3px 0 #000;
   display:grid;place-items:center;cursor:pointer;padding:0}
 .k-hud svg{width:20px;height:20px}
-#pauseKnopf{left:calc(10px + env(safe-area-inset-left,0px))}
+#pauseKnopf{left:calc(10px + env(safe-area-inset-left,0px));display:none !important}   /* V6.1: kein Pause-Knopf mehr – Einstellungen pausiert */
+#hud .tafel{left:calc(10px + env(safe-area-inset-left,0px))}
 .konferenz{position:absolute;left:calc(56px + env(safe-area-inset-left,0px));top:calc(46px + env(safe-area-inset-top,0px) + var(--tafelH));display:flex;flex-direction:column;gap:3px;pointer-events:none}
 .konferenz .kz{display:flex;align-items:center;gap:4px;background:rgba(10,18,51,.82);border:2px solid #000;border-radius:8px;padding:1px 7px 1px 4px;color:#fff;font-weight:800;font-size:12px;letter-spacing:.3px}
 .konferenz .kz .cflag{height:14px}
@@ -2092,7 +2093,7 @@ body::before{
   </div>
   <div class="ueber" id="pauseUeber" hidden>
     <div class="box"><h2>PAUSE</h2><p id="pauseInfo"></p>
-      <div class="reihe-k"><button type="button" id="weiterSpielen">WEITERSPIELEN</button><button type="button" class="zweit" id="aufgeben">ZUM MENÜ</button></div></div>
+      <div class="reihe-k"><button type="button" id="weiterSpielen">WEITERSPIELEN</button><button type="button" class="zweit" id="pauseGrafik">⚙️ GRAFIK</button><button type="button" class="zweit" id="aufgeben">ZUM MENÜ</button></div></div>
   </div>
   <div class="ueber" id="hzUeber" hidden>
     <div class="box hzbox"><h2>HALBZEIT</h2><div class="ergebnis" id="hzStand"></div>
@@ -10891,7 +10892,10 @@ const SPIEL = (() => {
     joystickEinrichten();
     $s('pauseKnopf').addEventListener('click', () => pause(true));
     $s('spielSimulieren').addEventListener('click', () => spielZuEndeSimulieren());
-    $s('grafikKnopf').addEventListener('click', () => grafikOeffnen(true));
+    // V6.1: Einstellungen = Pause (offline). Online läuft das Spiel weiter, dann gibt es nur die Grafik.
+    const onlineSpiel = () => !!(s && (s.gast || (s.optionen && (s.optionen.gast || s.optionen.fern || s.optionen.modus))));
+    $s('grafikKnopf').addEventListener('click', () => { if (onlineSpiel() || !laeuft) grafikOeffnen(true); else pause(true); });
+    { const pg = $s('pauseGrafik'); if (pg) pg.addEventListener('click', () => grafikOeffnen(true)); }
     $s('grafikZu').addEventListener('click', () => grafikOeffnen(false));
     document.querySelectorAll('[data-grafik]').forEach(b => b.addEventListener('click', () => grafikSetzen(b.dataset.grafik)));
     grafikUI();
@@ -11690,7 +11694,7 @@ const SPIEL = (() => {
         reihe.insertBefore(k, reihe.firstChild);
       }
       k.hidden = !an;
-      if (an) k.textContent = '🔄 WECHSEL (' + Math.max(0, wechselRest(0)) + '/' + WECHSEL_MAX + ')';
+      if (an) k.textContent = '🔄 AUSWECHSELN (' + Math.max(0, wechselRest(0)) + '/' + WECHSEL_MAX + ')';
     }
   }
 
@@ -11820,8 +11824,9 @@ const SPIEL = (() => {
       document.querySelectorAll('#hud .k-hud').forEach(b => { if (b.hidden || b.offsetParent === null) return; const r0 = b.getBoundingClientRect(); if (r0.top > tr.bottom) return;
         const x0 = (r0.left - cr.left) * k, x1 = (r0.right - cr.left) * k;
         if (x1 < (tr.left - cr.left) * k) li = Math.max(li, x1); else if (x0 > (tr.right - cr.left) * k) re = Math.min(re, x0); });
-      const oben = (tr.top - cr.top) * k, hoehe = (Math.max(tr.bottom, ur.bottom) - tr.top) * k;
-      const uL = uh ? (ur.left - cr.left) * k : re;   // V5.8: freier Platz zwischen Tafel (links) und Wetter (rechts)
+      const uOben = uh && ur.top < tr.bottom;   // V6.1: Wetter steht unten links – nur oben mitzählen
+      const oben = (tr.top - cr.top) * k, hoehe = (Math.max(tr.bottom, uOben ? ur.bottom : tr.bottom) - tr.top) * k;
+      const uL = uOben ? (ur.left - cr.left) * k : re;   // V5.8: freier Platz zwischen Tafel (links) und Wetter (rechts)
       hudCache = { links: [li + 6, (tr.left - cr.left) * k - 6], rechts: [(tr.right - cr.left) * k + 6, re - 6], mitte: [(tr.right - cr.left) * k + 8, Math.min(re, uL) - 8], oben, hoehe: (tr.bottom - tr.top) * k };
     } catch (e) {}
     return hudCache;
@@ -11971,6 +11976,7 @@ const SPIEL = (() => {
   window.__trainerHook = (typ, name) => { try { trainerEreignis(typ, name); } catch (e) {} };
   function pause(an){
     if (!laeuft || s.phase === 'ende') return;
+    if (an && (s.gast || (s.optionen && (s.optionen.gast || s.optionen.fern || s.optionen.modus)))) return;   // V6.1: online gibt es keine Pause
     pausiert = an; $s('pauseUeber').hidden = !an;
     try { wechselKnoepfe(); if (!an){ const wu = document.getElementById('wechselUeber'); if (wu) wu.hidden = true; } } catch (e) {}
     $s('pauseInfo').textContent = (KUERZEL[s.land[0]] || '') + ' ' + s.tore[0] + ' – ' + s.tore[1] + ' ' + (KUERZEL[s.gegner[0]] || '') + ' · ' + $s('minute').textContent;
