@@ -1,0 +1,333 @@
+SILESCROW CUP – Figuren-Prompts Teil 2: Durchgänge 14 bis 21 à 20 Figuren (160 neue Gegenspieler)
+Ablauf wie bei Teil 1: Jeder Durchgang = ein neuer Chat bei Gemini. Dort nacheinander:
+  Prompt 1 + Bild Figuren_Vorlage_vorne_20.png
+  Prompt 2 + Bild Figuren_Vorlage_seitlich_20.png
+  Prompt 3 + Bild Figuren_Vorlage_hinten_20.png
+Prompt 2 und 3 sind in jedem Durchgang gleich (stehen ganz unten).
+
+======================================================================
+DURCHGANG 14  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. light brown slicked-back hair, light skin, blue eyes, raised eyebrow, sand jersey with a small flame
+2. charcoal grey undercut with long top, very dark skin, green eyes, cheeky wink, royal-blue jersey with a small tree
+3. ginger short buzz cut, light skin, green eyes, yellow jersey with a small moon
+4. black wavy hair to the ears, very dark skin, green eyes, serious frown, mint jersey with a small shield
+5. copper red spiky hair, brown skin, grey eyes, rosy cheeks, forest-green jersey with a small sun
+Row 2:
+6. chestnut brown flat top, brown skin, hazel eyes, determined look, green jersey with a small crown
+7. auburn short buzz cut, brown skin, brown eyes, thin mustache, teal jersey with a small heart
+8. dark brown with golden tips bowl cut, very dark skin, blue eyes, thin mustache, lilac jersey with a small lightning bolt
+9. dirty blond crew cut, light skin, green eyes, thin mustache, burgundy jersey with a small arrow
+10. dark brown with golden tips undercut with long top, tan skin, brown eyes, headband, sky-blue jersey with a small fish
+Row 3:
+11. silver-grey spiky hair, tan skin, green eyes, short beard, navy jersey with a small planet
+12. strawberry blond messy wavy hair, very dark skin, amber eyes, thin mustache, charcoal jersey with a small rocket
+13. black with red tips round afro, tan skin, dark brown eyes, thin mustache, cream jersey with a small bird
+14. black with red tips high top fade, very pale skin, blue eyes, cheeky wink, maroon jersey with a small feather
+15. silver-grey bowl cut, olive skin, hazel eyes, rosy cheeks, olive jersey with a small gear
+Row 4:
+16. auburn tight curls, dark brown skin, blue eyes, freckles, lime jersey with a small snowflake
+17. chestnut brown crew cut, brown skin, brown eyes, indigo jersey with a small clover
+18. platinum blond faux hawk, very pale skin, dark brown eyes, rosy cheeks, orange jersey with a small mountain
+19. dirty blond man bun, very pale skin, green eyes, determined look, red jersey with a small key
+20. charcoal grey short twists, light brown skin, green eyes, eyebrow slit, coral jersey with a small leaf
+
+======================================================================
+DURCHGANG 15  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. charcoal grey tight curls, olive skin, dark brown eyes, grey jersey with a small lightning bolt
+2. dark brown with golden tips slicked-back hair, light brown skin, grey eyes, cheeky wink, sky-blue jersey with a small leaf
+3. auburn spiky hair, olive skin, brown eyes, braces on the teeth, lime jersey with a small ball
+4. silver-grey undercut with long top, brown skin, dark brown eyes, determined look, forest-green jersey with a small tree
+5. strawberry blond short buzz cut, olive skin, dark brown eyes, freckles, maroon jersey with a small crown
+Row 2:
+6. black round afro, very pale skin, hazel eyes, tangerine jersey with a small clover
+7. auburn short twists, olive skin, dark brown eyes, confident smirk, olive jersey with a small arrow
+8. light brown slicked-back hair, very dark skin, green eyes, yellow jersey with a small bird
+9. strawberry blond man bun, brown skin, blue eyes, stubble, mint jersey with a small fish
+10. black with red tips curly top with shaved sides, light skin, amber eyes, short beard, royal-blue jersey with a small anchor
+Row 3:
+11. black with red tips undercut with long top, dark brown skin, grey eyes, stubble, white jersey with a small wave
+12. honey blond messy wavy hair, olive skin, dark brown eyes, headband, turquoise jersey with a small mountain
+13. jet black with blue tips high top fade, light skin, green eyes, cheeky wink, navy jersey with a small moon
+14. jet black with blue tips crew cut, dark brown skin, hazel eyes, cream jersey with a small rocket
+15. charcoal grey tall quiff, light brown skin, grey eyes, cheeky wink, orange jersey with a small shield
+Row 4:
+16. ash brown curly mop, very dark skin, hazel eyes, short beard, lilac jersey with a small gear
+17. chestnut brown bowl cut, dark brown skin, blue eyes, small mole on the cheek, burgundy jersey with a small wing
+18. silver-grey tight curls, very dark skin, green eyes, small scar on the eyebrow, sand jersey with a small key
+19. light brown bowl cut, very dark skin, blue eyes, short beard, coral jersey with a small sun
+20. honey blond wavy hair to the ears, olive skin, blue eyes, dimples and a big grin, purple jersey with a small flame
+
+======================================================================
+DURCHGANG 16  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. platinum blond tight curls, brown skin, grey eyes, braces on the teeth, lime jersey with a small key
+2. golden blond mohawk, light skin, grey eyes, red jersey with a small clover
+3. dirty blond bowl cut, tan skin, amber eyes, short beard, tangerine jersey with a small fish
+4. dirty blond wavy hair to the ears, brown skin, brown eyes, determined look, purple jersey with a small paw
+5. silver-grey mini afro with a fade, dark brown skin, blue eyes, single stud earring, mint jersey with a small cloud
+Row 2:
+6. ginger round afro, dark brown skin, blue eyes, sweatband, sand jersey with a small flame
+7. golden blond tall quiff, very dark skin, grey eyes, confident smirk, coral jersey with a small lightning bolt
+8. silver-grey curly mop, olive skin, green eyes, small mole on the cheek, olive jersey with a small wing
+9. black mohawk, light brown skin, grey eyes, braces on the teeth, orange jersey with a small sun
+10. auburn messy wavy hair, very dark skin, green eyes, thin mustache, cream jersey with a small arrow
+Row 3:
+11. charcoal grey short buzz cut, tan skin, grey eyes, sweatband, white jersey with a small planet
+12. auburn crew cut, tan skin, grey eyes, thin mustache, sky-blue jersey with a small rocket
+13. ginger tall quiff, light brown skin, blue eyes, raised eyebrow, forest-green jersey with a small feather
+14. black with red tips man bun, dark brown skin, brown eyes, teal jersey with a small bird
+15. platinum blond spiky hair, very pale skin, brown eyes, turquoise jersey with a small anchor
+Row 4:
+16. jet black with blue tips side part, very pale skin, amber eyes, yellow jersey with a small gear
+17. jet black with blue tips wavy hair to the ears, olive skin, brown eyes, thin mustache, gold jersey with a small mountain
+18. light brown short dreadlocks, dark brown skin, brown eyes, royal-blue jersey with a small wave
+19. chestnut brown bowl cut, light brown skin, amber eyes, raised eyebrow, maroon jersey with a small diamond
+20. copper red crew cut, light brown skin, green eyes, sweatband, grey jersey with a small heart
+
+======================================================================
+DURCHGANG 17  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. copper red short twists, very dark skin, hazel eyes, rosy cheeks, purple jersey with a small clover
+2. copper red side part, light skin, brown eyes, confident smirk, lilac jersey with a small arrow
+3. platinum blond textured crop, brown skin, brown eyes, braces on the teeth, burgundy jersey with a small shield
+4. jet black with blue tips fringe swept to one side, dark brown skin, green eyes, raised eyebrow, olive jersey with a small heart
+5. light brown spiky hair, dark brown skin, blue eyes, stubble, royal-blue jersey with a small feather
+Row 2:
+6. jet black with blue tips bowl cut, dark brown skin, green eyes, small scar on the eyebrow, teal jersey with a small star
+7. auburn short dreadlocks, very pale skin, green eyes, single stud earring, yellow jersey with a small tree
+8. charcoal grey tight curls, very pale skin, amber eyes, sky-blue jersey with a small wave
+9. honey blond short twists, very pale skin, hazel eyes, freckles, pink jersey with a small moon
+10. chestnut brown mohawk, dark brown skin, grey eyes, stubble, tangerine jersey with a small paw
+Row 3:
+11. light brown high top fade, dark brown skin, blue eyes, stubble, white jersey with a small key
+12. dark brown with golden tips curly top with shaved sides, brown skin, hazel eyes, lime jersey with a small anchor
+13. honey blond short dreadlocks, brown skin, dark brown eyes, freckles, forest-green jersey with a small snowflake
+14. ginger flat top, light brown skin, hazel eyes, silver jersey with a small mountain
+15. auburn curly mop, dark brown skin, grey eyes, serious frown, green jersey with a small gear
+Row 4:
+16. strawberry blond spiky hair, dark brown skin, grey eyes, turquoise jersey with a small bird
+17. ash brown man bun, tan skin, grey eyes, stubble, navy jersey with a small ball
+18. chestnut brown curly mop, dark brown skin, green eyes, rosy cheeks, sand jersey with a small wing
+19. ginger crew cut, brown skin, brown eyes, serious frown, gold jersey with a small leaf
+20. golden blond short buzz cut, tan skin, brown eyes, grey jersey with a small flame
+
+======================================================================
+DURCHGANG 18  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. auburn short buzz cut, tan skin, dark brown eyes, sweatband, red jersey with a small star
+2. dark brown with golden tips short twists, very dark skin, green eyes, thin mustache, green jersey with a small gear
+3. light brown slicked-back hair, brown skin, dark brown eyes, cheeky wink, purple jersey with a small fish
+4. dark brown curly top with shaved sides, olive skin, blue eyes, pink jersey with a small heart
+5. jet black with blue tips faux hawk, olive skin, dark brown eyes, raised eyebrow, coral jersey with a small planet
+Row 2:
+6. dark brown with golden tips faux hawk, brown skin, hazel eyes, determined look, maroon jersey with a small key
+7. jet black with blue tips round afro, dark brown skin, dark brown eyes, rosy cheeks, silver jersey with a small diamond
+8. ginger flat top, dark brown skin, blue eyes, freckles, lime jersey with a small snowflake
+9. golden blond bowl cut, very pale skin, amber eyes, raised eyebrow, mint jersey with a small bird
+10. golden blond short buzz cut, olive skin, dark brown eyes, sweatband, burgundy jersey with a small triangle
+Row 3:
+11. black wavy hair to the ears, brown skin, grey eyes, blue jersey with a small sun
+12. charcoal grey crew cut, light skin, dark brown eyes, braces on the teeth, black jersey with a small flame
+13. ash brown flat top, tan skin, amber eyes, rosy cheeks, indigo jersey with a small paw
+14. ginger high top fade, very dark skin, amber eyes, eyebrow slit, sky-blue jersey with a small tree
+15. light brown slicked-back hair, light brown skin, brown eyes, eyebrow slit, white jersey with a small lightning bolt
+Row 4:
+16. dark brown short twists, very pale skin, brown eyes, small scar on the eyebrow, orange jersey with a small rocket
+17. black tight curls, olive skin, green eyes, rosy cheeks, forest-green jersey with a small ball
+18. auburn tall quiff, very pale skin, hazel eyes, dimples and a big grin, teal jersey with a small moon
+19. platinum blond mohawk, light skin, amber eyes, braces on the teeth, olive jersey with a small shield
+20. platinum blond man bun, light skin, hazel eyes, gold jersey with a small arrow
+
+======================================================================
+DURCHGANG 19  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. ginger tall quiff, very pale skin, green eyes, stubble, silver jersey with a small key
+2. honey blond fringe swept to one side, tan skin, blue eyes, determined look, mint jersey with a small gear
+3. dark brown with golden tips mini afro with a fade, light skin, grey eyes, sweatband, turquoise jersey with a small star
+4. copper red curly top with shaved sides, dark brown skin, grey eyes, confident smirk, tangerine jersey with a small anchor
+5. copper red crew cut, dark brown skin, green eyes, single stud earring, olive jersey with a small mountain
+Row 2:
+6. ginger round afro, light brown skin, grey eyes, cheeky wink, white jersey with a small fish
+7. black with red tips messy wavy hair, dark brown skin, brown eyes, rosy cheeks, royal-blue jersey with a small lightning bolt
+8. honey blond curly mop, brown skin, brown eyes, determined look, lime jersey with a small heart
+9. silver-grey high top fade, light brown skin, hazel eyes, eyebrow slit, burgundy jersey with a small sun
+10. chestnut brown cornrows, olive skin, dark brown eyes, sand jersey with a small compass
+Row 3:
+11. strawberry blond messy wavy hair, brown skin, amber eyes, single stud earring, orange jersey with a small feather
+12. jet black with blue tips undercut with long top, dark brown skin, hazel eyes, small scar on the eyebrow, red jersey with a small triangle
+13. auburn mini afro with a fade, tan skin, grey eyes, small mole on the cheek, charcoal jersey with a small bird
+14. chestnut brown bowl cut, light skin, blue eyes, freckles, gold jersey with a small rocket
+15. light brown round afro, brown skin, grey eyes, short beard, coral jersey with a small ball
+Row 4:
+16. charcoal grey faux hawk, very dark skin, grey eyes, dimples and a big grin, yellow jersey with a small flame
+17. jet black with blue tips faux hawk, light brown skin, brown eyes, sweatband, lilac jersey with a small tree
+18. silver-grey curly top with shaved sides, olive skin, brown eyes, freckles, teal jersey with a small planet
+19. strawberry blond cornrows, tan skin, dark brown eyes, headband, black jersey with a small wing
+20. black with red tips textured crop, tan skin, blue eyes, dimples and a big grin, cream jersey with a small arrow
+
+======================================================================
+DURCHGANG 20  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. charcoal grey curly top with shaved sides, very dark skin, grey eyes, serious frown, blue jersey with a small tree
+2. ash brown curly top with shaved sides, tan skin, dark brown eyes, stubble, burgundy jersey with a small crown
+3. black mini afro with a fade, tan skin, amber eyes, freckles, gold jersey with a small clover
+4. ash brown tight curls, very pale skin, amber eyes, rosy cheeks, maroon jersey with a small paw
+5. light brown wavy hair to the ears, tan skin, green eyes, small mole on the cheek, royal-blue jersey with a small triangle
+Row 2:
+6. charcoal grey tall quiff, olive skin, hazel eyes, short beard, forest-green jersey with a small shield
+7. silver-grey short twists, very pale skin, brown eyes, cheeky wink, grey jersey with a small star
+8. ginger high top fade, dark brown skin, hazel eyes, headband, navy jersey with a small fish
+9. golden blond faux hawk, light brown skin, blue eyes, braces on the teeth, black jersey with a small diamond
+10. black messy wavy hair, tan skin, grey eyes, sweatband, yellow jersey with a small leaf
+Row 3:
+11. light brown faux hawk, olive skin, grey eyes, headband, lime jersey with a small anchor
+12. silver-grey fringe swept to one side, very dark skin, grey eyes, small scar on the eyebrow, cream jersey with a small snowflake
+13. platinum blond tight curls, tan skin, blue eyes, cheeky wink, tangerine jersey with a small rocket
+14. dark brown with golden tips side part, light brown skin, green eyes, raised eyebrow, charcoal jersey with a small heart
+15. strawberry blond man bun, very dark skin, grey eyes, cheeky wink, pink jersey with a small wing
+Row 4:
+16. dark brown short twists, light brown skin, green eyes, serious frown, sand jersey with a small wave
+17. black with red tips spiky hair, very pale skin, amber eyes, raised eyebrow, sky-blue jersey with a small ball
+18. copper red bowl cut, olive skin, amber eyes, braces on the teeth, turquoise jersey with a small feather
+19. copper red man bun, brown skin, green eyes, cheeky wink, green jersey with a small compass
+20. black with red tips crew cut, olive skin, green eyes, raised eyebrow, lilac jersey with a small planet
+
+======================================================================
+DURCHGANG 21  –  PROMPT 1 (mit Figuren_Vorlage_vorne_20.png)
+======================================================================
+Use the attached image ONLY as a reference for rendering style, bust framing and the grid layout.
+Do NOT copy any face, hairstyle, skin tone or jersey from it.
+Cute 3D chibi soccer players, Pixar-style render, bust only (head, neck, upper chest),
+big round head, big glossy eyes, front view.
+Layout: exactly 4 rows of 5, evenly spaced in a straight grid, every character the same size
+and centered in its cell, clear white space between characters, nothing touching or overlapping,
+the whole hair fully visible, nothing cut off.
+Solid pure white background, no shadows, no text, no logos, no numbers.
+Draw exactly these 20 characters, in this order (left to right, top to bottom),
+each one clearly different from all others:
+Row 1:
+1. honey blond spiky hair, very dark skin, green eyes, determined look, sky-blue jersey with a small wing
+2. charcoal grey curly top with shaved sides, very pale skin, blue eyes, burgundy jersey with a small anchor
+3. light brown crew cut, olive skin, blue eyes, white jersey with a small wave
+4. platinum blond crew cut, dark brown skin, green eyes, headband, teal jersey with a small snowflake
+5. silver-grey curly mop, dark brown skin, grey eyes, determined look, purple jersey with a small gear
+Row 2:
+6. silver-grey mini afro with a fade, olive skin, hazel eyes, headband, blue jersey with a small planet
+7. ginger short twists, light skin, blue eyes, rosy cheeks, lime jersey with a small lightning bolt
+8. light brown messy wavy hair, light brown skin, green eyes, serious frown, lilac jersey with a small ball
+9. golden blond curly top with shaved sides, olive skin, green eyes, eyebrow slit, indigo jersey with a small leaf
+10. ash brown round afro, olive skin, hazel eyes, braces on the teeth, tangerine jersey with a small star
+Row 3:
+11. ginger slicked-back hair, very dark skin, brown eyes, freckles, cream jersey with a small paw
+12. jet black with blue tips mohawk, dark brown skin, dark brown eyes, single stud earring, yellow jersey with a small arrow
+13. jet black with blue tips faux hawk, very pale skin, hazel eyes, serious frown, grey jersey with a small tree
+14. auburn bowl cut, very pale skin, blue eyes, freckles, navy jersey with a small clover
+15. ash brown wavy hair to the ears, very dark skin, grey eyes, small scar on the eyebrow, coral jersey with a small cloud
+Row 4:
+16. auburn undercut with long top, olive skin, hazel eyes, rosy cheeks, mint jersey with a small diamond
+17. black with red tips round afro, dark brown skin, amber eyes, braces on the teeth, forest-green jersey with a small compass
+18. black with red tips fringe swept to one side, very pale skin, amber eyes, serious frown, royal-blue jersey with a small feather
+19. chestnut brown man bun, light skin, grey eyes, single stud earring, silver jersey with a small crown
+20. copper red faux hawk, brown skin, amber eyes, dimples and a big grin, maroon jersey with a small mountain
+
+======================================================================
+PROMPT 2 (mit Figuren_Vorlage_seitlich_20.png) – in jedem Durchgang gleich
+======================================================================
+Now show EXACTLY the same 20 characters you just created, in exactly the same order
+and the same grid (4 rows of 5).
+This time in side profile facing RIGHT, like in the attached reference image.
+Use the reference ONLY for the viewing angle, framing and layout, not for faces or hair.
+Keep each character's hairstyle, hair color, skin tone, eyes, beard, accessories and jersey
+color identical to the front view. Same size in every cell, clear white space between
+characters, solid pure white background, no shadows, no text, no logos, no numbers,
+nothing cut off.
+
+======================================================================
+PROMPT 3 (mit Figuren_Vorlage_hinten_20.png) – in jedem Durchgang gleich
+======================================================================
+Now show EXACTLY the same 20 characters you just created, in exactly the same order
+and the same grid (4 rows of 5).
+This time in back view, seen from directly behind, like in the attached reference image.
+Use the reference ONLY for the viewing angle, framing and layout, not for hair.
+Keep each character's hairstyle, hair color, skin tone, accessories and jersey color
+identical to the front view. Same size in every cell, clear white space between characters,
+solid pure white background, no shadows, no text, no logos, no numbers, nothing cut off.
