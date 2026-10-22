@@ -8,7 +8,7 @@ Browser-Fußballspiel 11 gegen 11 – du steuerst alle Feldspieler. Alle Dateien
 | `02_Hauptmenue_Spielerkarten` | Kartenbilder: `1_Gold`, `2_Silber`, `3_Bronze`, `4_Standard` |
 | `03_Spielfiguren` | Spieler (vorne, hinten, seitlich, schräg) und Schiedsrichter |
 | `04_Figurenblaetter` | Gemini-Bilder: `1_Durchgaenge` (00–22, vorne/hinten/seitlich), `2_Vorlagen`, `3_Verworfen` |
-| `05_Musik` | Musik: Ladebildschirm, Hauptmenü (aktuell und alt) |
+| `05_Musik` | Musik: Ladebildschirm, Hauptmenü; ältere Lieder in `Alt/` |
 | `06_Geraeusche` | Stadion- und Tor-Geräusche (`Stadion_…`, `Tor_…`) |
 | `07_Kommentator` | alle 667 gesprochenen Kommentator-Sätze (B01-02 = Block 1, Satz 2) |
 | `08_Texte` | Satzlisten (Kommentator, Trainer, Presse) und Spielerliste |
