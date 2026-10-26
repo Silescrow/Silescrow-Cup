@@ -1,2824 +1,3597 @@
 [
-{
-"name": "NERO",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "SKY",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "DANTE",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "ZAID",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "BLADE",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "NOVAK",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "COBRA",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "ECHO",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "SILESCROW",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "FLASH",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "FURY",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "HAWK",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "JET",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "KHAN",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "LYNX",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "LEO",
-"rating": 70,
-"role": "TW"
-},
-{
-"name": "LEGEND",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "TITAN",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "PIXEL",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "VIPER",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "RAZOR",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "TORNADO",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "STORM",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "FALCON",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "JINX",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "ROCKET",
-"rating": 70,
-"role": "ST"
-},
-{
-"name": "GRIZZLY",
-"rating": 70,
-"role": "MF"
-},
-{
-"name": "TURBO",
-"rating": 70,
-"role": "DF"
-},
-{
-"name": "BLAZE",
-"rating": 140,
-"role": "ST",
-"stufe": "gold"
-},
-{
-"name": "KAIRO",
-"rating": 136,
-"role": "MF",
-"stufe": "gold"
-},
-{
-"name": "JUNO",
-"rating": 127,
-"role": "MF",
-"stufe": "gold"
-},
-{
-"name": "VOLT",
-"rating": 129,
-"role": "ST",
-"stufe": "gold"
-},
-{
-"name": "NOVA",
-"rating": 138,
-"role": "ST",
-"stufe": "gold"
-},
-{
-"name": "GHOST",
-"rating": 132,
-"role": "TW",
-"stufe": "gold"
-},
-{
-"name": "RONIN",
-"rating": 134,
-"role": "DF",
-"stufe": "gold"
-},
-{
-"name": "ZEPHYR",
-"rating": 125,
-"role": "ST",
-"stufe": "gold"
-},
-{
-"name": "AMARO",
-"rating": 123,
-"role": "MF",
-"stufe": "gold"
-},
-{
-"name": "LORENZO",
-"rating": 121,
-"role": "DF",
-"stufe": "gold"
-},
-{
-"name": "ZION",
-"rating": 118,
-"role": "DF",
-"stufe": "silber"
-},
-{
-"name": "TAJO",
-"rating": 114,
-"role": "TW",
-"stufe": "silber"
-},
-{
-"name": "MAKO",
-"rating": 116,
-"role": "DF",
-"stufe": "silber"
-},
-{
-"name": "THORE",
-"rating": 112,
-"role": "MF",
-"stufe": "silber"
-},
-{
-"name": "TANE",
-"rating": 110,
-"role": "TW",
-"stufe": "silber"
-},
-{
-"name": "SPIKE",
-"rating": 109,
-"role": "ST",
-"stufe": "silber"
-},
-{
-"name": "KENJI",
-"rating": 103,
-"role": "MF",
-"stufe": "silber"
-},
-{
-"name": "FUEGO",
-"rating": 115,
-"role": "ST",
-"stufe": "silber"
-},
-{
-"name": "BLITZ",
-"rating": 111,
-"role": "ST",
-"stufe": "silber"
-},
-{
-"name": "KOFI",
-"rating": 87,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "RAVEN",
-"rating": 108,
-"role": "DF",
-"stufe": "silber"
-},
-{
-"name": "ROJO",
-"rating": 106,
-"role": "MF",
-"stufe": "silber"
-},
-{
-"name": "VALENTIN",
-"rating": 86,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "ACE",
-"rating": 109,
-"role": "ST",
-"stufe": "silber"
-},
-{
-"name": "JABARI",
-"rating": 113,
-"role": "DF",
-"stufe": "silber"
-},
-{
-"name": "ORION",
-"rating": 102,
-"role": "TW",
-"stufe": "silber"
-},
-{
-"name": "WOLF",
-"rating": 117,
-"role": "DF",
-"stufe": "silber"
-},
-{
-"name": "VICTOR",
-"rating": 87,
-"role": "MF",
-"stufe": "bronze"
-},
-{
-"name": "KAITO",
-"rating": 105,
-"role": "MF",
-"stufe": "silber"
-},
-{
-"name": "AKIN",
-"rating": 86,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "MOSI",
-"rating": 97,
-"role": "DF",
-"stufe": "bronze"
-},
-{
-"name": "FROST",
-"rating": 107,
-"role": "TW",
-"stufe": "silber"
-},
-{
-"name": "RICO",
-"rating": 101,
-"role": "ST",
-"stufe": "silber"
-},
-{
-"name": "LUCIO",
-"rating": 91,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "MILO",
-"rating": 86,
-"role": "MF",
-"stufe": "bronze"
-},
-{
-"name": "BRICK",
-"rating": 86,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "KOJO",
-"rating": 100,
-"role": "TW",
-"stufe": "silber"
-},
-{
-"name": "DRAKO",
-"rating": 86,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "RYU",
-"rating": 87,
-"role": "TW",
-"stufe": "bronze"
-},
-{
-"name": "ZANE",
-"rating": 86,
-"role": "MF",
-"stufe": "bronze"
-},
-{
-"name": "ASH",
-"rating": 104,
-"role": "ST",
-"stufe": "silber"
-},
-{
-"name": "TANK",
-"rating": 88,
-"role": "DF",
-"stufe": "bronze"
-},
-{
-"name": "REX",
-"rating": 91,
-"role": "DF",
-"stufe": "bronze"
-},
-{
-"name": "TOMI",
-"rating": 94,
-"role": "MF",
-"stufe": "bronze"
-},
-{
-"name": "CAIO",
-"rating": 87,
-"role": "MF",
-"stufe": "bronze"
-},
-{
-"name": "DUKE",
-"rating": 86,
-"role": "ST",
-"stufe": "bronze"
-},
-{
-"name": "BRUNO",
-"rating": 70,
-"role": "DF",
-"ki": true
-},
-{
-"name": "OSKAR",
-"rating": 70,
-"role": "MF",
-"ki": true
-},
-{
-"name": "NIKO",
-"rating": 70,
-"role": "ST",
-"ki": true
-},
-{
-"name": "JONAS",
-"rating": 70,
-"role": "DF",
-"ki": true
-},
-{
-"name": "MALIK",
-"rating": 70,
-"role": "MF",
-"ki": true
-},
-{
-"name": "EMIL",
-"rating": 70,
-"role": "ST",
-"ki": true
-},
-{
-"name": "OCEAN",
-"role": "TW",
-"rating": 76,
-"ki": true
-},
-{
-"name": "BEAST",
-"role": "DF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "RHINO",
-"role": "DF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "VENOM",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "VORTEX",
-"role": "MF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "KAISER",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "MOKO",
-"role": "ST",
-"rating": 84,
-"ki": true
-},
-{
-"name": "KASPER",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "MONK",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "YUKON",
-"role": "TW",
-"rating": 80,
-"ki": true
-},
-{
-"name": "SPECTRE",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "DASH",
-"role": "ST",
-"rating": 95,
-"stufe": "bronze"
-},
-{
-"name": "EMBER",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "SANTO",
-"role": "ST",
-"rating": 79,
-"ki": true
-},
-{
-"name": "RUBY",
-"role": "MF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "SPIRIT",
-"role": "ST",
-"rating": 90,
-"stufe": "bronze"
-},
-{
-"name": "NITRO",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "ORCA",
-"role": "ST",
-"rating": 71,
-"ki": true
-},
-{
-"name": "GAMBIT",
-"role": "DF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "OLLIE",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "FANG",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "JOKER",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "URANO",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "FROSTY",
-"role": "DF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "DIABLO",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "OREO",
-"role": "MF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "NAVI",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "LOTUS",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "FOX",
-"role": "TW",
-"rating": 95,
-"stufe": "bronze"
-},
-{
-"name": "MUSTANG",
-"role": "TW",
-"rating": 74,
-"ki": true
-},
-{
-"name": "OAK",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "CRYSTAL",
-"role": "DF",
-"rating": 90,
-"stufe": "bronze"
-},
-{
-"name": "FIZZ",
-"role": "DF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "CAPTAIN",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "ATLAS",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "HAVOC",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "ELVIO",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "SULTAN",
-"role": "MF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "SLIDER",
-"role": "TW",
-"rating": 73,
-"ki": true
-},
-{
-"name": "DRIFT",
-"role": "ST",
-"rating": 70,
-"ki": true
-},
-{
-"name": "PYRO",
-"role": "MF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "SAMURAI",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "GORDO",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "KARMA",
-"role": "TW",
-"rating": 71,
-"ki": true
-},
-{
-"name": "CALYPSO",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "KANE",
-"role": "TW",
-"rating": 74,
-"ki": true
-},
-{
-"name": "SLOAN",
-"role": "MF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "DOC",
-"role": "DF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "BRAX",
-"role": "DF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "SCORCH",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "ACEX",
-"role": "DF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "MARS",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "CORSAIR",
-"role": "MF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "NOMAD",
-"role": "MF",
-"rating": 92,
-"stufe": "bronze"
-},
-{
-"name": "SPHINX",
-"role": "ST",
-"rating": 84,
-"ki": true
-},
-{
-"name": "RAMON",
-"role": "DF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "HURRICANE",
-"role": "DF",
-"rating": 88,
-"stufe": "bronze"
-},
-{
-"name": "METEOR",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "ULTRA",
-"role": "ST",
-"rating": 76,
-"ki": true
-},
-{
-"name": "INDIGO",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "HALO",
-"role": "ST",
-"rating": 70,
-"ki": true
-},
-{
-"name": "NOCTIS",
-"role": "TW",
-"rating": 70,
-"ki": true
-},
-{
-"name": "SABER",
-"role": "ST",
-"rating": 66,
-"ki": true
-},
-{
-"name": "MIRAGE",
-"role": "MF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "GUSTO",
-"role": "TW",
-"rating": 99,
-"stufe": "bronze"
-},
-{
-"name": "VULCAN",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "ROMEO",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "IRON",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "SHAKA",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "UMBRA",
-"role": "MF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "MIDAS",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "BISON",
-"role": "MF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "LASER",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "OMEGA",
-"role": "ST",
-"rating": 90,
-"stufe": "bronze"
-},
-{
-"name": "CHILI",
-"role": "TW",
-"rating": 71,
-"ki": true
-},
-{
-"name": "SONIC",
-"role": "ST",
-"rating": 66,
-"ki": true
-},
-{
-"name": "XENON",
-"role": "MF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "YETI",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "TORO",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "ZODIAC",
-"role": "TW",
-"rating": 86,
-"stufe": "bronze"
-},
-{
-"name": "EDGE",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "SHADOW",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "BOMBER",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "PILOT",
-"role": "ST",
-"rating": 72,
-"ki": true
-},
-{
-"name": "VOODOO",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "JUNIOR",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "PEPE",
-"role": "MF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "APEX",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "VERTIGO",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "DINO",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "BOLT",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "LUNAR",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "PABLO",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "DOMINO",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "RAGNAR",
-"role": "MF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "CACTUS",
-"role": "TW",
-"rating": 67,
-"ki": true
-},
-{
-"name": "TONI",
-"role": "DF",
-"rating": 89,
-"stufe": "bronze"
-},
-{
-"name": "PLUTO",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "PLASMA",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "SNIPER",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "SKIPPER",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "PUNCH",
-"role": "TW",
-"rating": 79,
-"ki": true
-},
-{
-"name": "FORGE",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "RAMBO",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "KOBRA",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "WASABI",
-"role": "ST",
-"rating": 71,
-"ki": true
-},
-{
-"name": "KRAKEN",
-"role": "TW",
-"rating": 81,
-"ki": true
-},
-{
-"name": "BLAST",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "STRIKER",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "MARCO",
-"role": "TW",
-"rating": 66,
-"ki": true
-},
-{
-"name": "AMIGO",
-"role": "ST",
-"rating": 69,
-"ki": true
-},
-{
-"name": "WRAITH",
-"role": "ST",
-"rating": 78,
-"ki": true
-},
-{
-"name": "KRYPTO",
-"role": "TW",
-"rating": 78,
-"ki": true
-},
-{
-"name": "VOLCANO",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "TROJAN",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "POPCORN",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "STING",
-"role": "ST",
-"rating": 68,
-"ki": true
-},
-{
-"name": "SHARK",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "SMASH",
-"role": "DF",
-"rating": 94,
-"stufe": "bronze"
-},
-{
-"name": "ROBIN",
-"role": "DF",
-"rating": 97,
-"stufe": "bronze"
-},
-{
-"name": "CRUZ",
-"role": "MF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "WARRIOR",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "MOOSE",
-"role": "MF",
-"rating": 90,
-"stufe": "bronze"
-},
-{
-"name": "ARGO",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "BENTO",
-"role": "ST",
-"rating": 71,
-"ki": true
-},
-{
-"name": "AXEL",
-"role": "ST",
-"rating": 82,
-"ki": true
-},
-{
-"name": "DUNE",
-"role": "ST",
-"rating": 88,
-"stufe": "bronze"
-},
-{
-"name": "WIZARD",
-"role": "ST",
-"rating": 77,
-"ki": true
-},
-{
-"name": "ONYX",
-"role": "MF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "SURGE",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "PATCH",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "NUGGET",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "DELTA",
-"role": "ST",
-"rating": 79,
-"ki": true
-},
-{
-"name": "TORPEDO",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "ROCCO",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "JAX",
-"role": "ST",
-"rating": 74,
-"ki": true
-},
-{
-"name": "KOBE",
-"role": "DF",
-"rating": 97,
-"stufe": "bronze"
-},
-{
-"name": "RIFT",
-"role": "MF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "CHIEF",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "ZIGGY",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "FROSTBITE",
-"role": "TW",
-"rating": 72,
-"ki": true
-},
-{
-"name": "DAGGER",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "TEMPO",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "BASALT",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "SPRINT",
-"role": "TW",
-"rating": 74,
-"ki": true
-},
-{
-"name": "YOGI",
-"role": "ST",
-"rating": 97,
-"stufe": "bronze"
-},
-{
-"name": "TANGO",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "LOCO",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "BANDIT",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "SAMBA",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "DORADO",
-"role": "DF",
-"rating": 93,
-"stufe": "bronze"
-},
-{
-"name": "NINJA",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "TAURUS",
-"role": "TW",
-"rating": 79,
-"ki": true
-},
-{
-"name": "PIRANHA",
-"role": "ST",
-"rating": 99,
-"stufe": "bronze"
-},
-{
-"name": "STEEL",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "REMY",
-"role": "MF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "TRACE",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "SPARK",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "XANDER",
-"role": "ST",
-"rating": 72,
-"ki": true
-},
-{
-"name": "MACH",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "ECLIPSE",
-"role": "DF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "TRIX",
-"role": "DF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "TUCAN",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "PHANTOM",
-"role": "DF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "FUSION",
-"role": "ST",
-"rating": 68,
-"ki": true
-},
-{
-"name": "IGLOO",
-"role": "TW",
-"rating": 74,
-"ki": true
-},
-{
-"name": "ZAP",
-"role": "DF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "GRANIT",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "CONDOR",
-"role": "MF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "RINGO",
-"role": "ST",
-"rating": 69,
-"ki": true
-},
-{
-"name": "KILO",
-"role": "DF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "PRISM",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "PHOENIX",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "RAPTOR",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "QUINTO",
-"role": "MF",
-"rating": 99,
-"stufe": "bronze"
-},
-{
-"name": "OPAL",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "RIO",
-"role": "ST",
-"rating": 72,
-"ki": true
-},
-{
-"name": "GLITCH",
-"role": "DF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "MATRIX",
-"role": "ST",
-"rating": 70,
-"ki": true
-},
-{
-"name": "SUMO",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "RADAR",
-"role": "MF",
-"rating": 95,
-"stufe": "bronze"
-},
-{
-"name": "LUCKY",
-"role": "TW",
-"rating": 68,
-"ki": true
-},
-{
-"name": "RUSTY",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "COMET",
-"role": "DF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "MARLIN",
-"role": "ST",
-"rating": 69,
-"ki": true
-},
-{
-"name": "QUAKE",
-"role": "MF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "QUASAR",
-"role": "DF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "KAYO",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "EAGLE",
-"role": "DF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "SNAKE",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "JUMBO",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "HERO",
-"role": "ST",
-"rating": 73,
-"ki": true
-},
-{
-"name": "SIRIUS",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "ORBIT",
-"role": "ST",
-"rating": 74,
-"ki": true
-},
-{
-"name": "VANDAL",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "GIZMO",
-"role": "ST",
-"rating": 78,
-"ki": true
-},
-{
-"name": "PEPPER",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "SALVO",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "ZORRO",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "OTTO",
-"role": "MF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "PRINCE",
-"role": "DF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "PUMA",
-"role": "ST",
-"rating": 73,
-"ki": true
-},
-{
-"name": "BLAZER",
-"role": "ST",
-"rating": 78,
-"ki": true
-},
-{
-"name": "MAXX",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "SPINNER",
-"role": "DF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "ALPHA",
-"role": "ST",
-"rating": 83,
-"ki": true
-},
-{
-"name": "THUNDER",
-"role": "ST",
-"rating": 72,
-"ki": true
-},
-{
-"name": "ZEST",
-"role": "DF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "NACHO",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "BARON",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "QUILL",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "BRONCO",
-"role": "ST",
-"rating": 82,
-"ki": true
-},
-{
-"name": "BULLET",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "ZEUS",
-"role": "DF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "AZTEK",
-"role": "TW",
-"rating": 78,
-"ki": true
-},
-{
-"name": "SCOUT",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "MAMBA",
-"role": "DF",
-"rating": 90,
-"stufe": "bronze"
-},
-{
-"name": "TEJO",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "JOLLY",
-"role": "DF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "CANNON",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "RUMBLE",
-"role": "DF",
-"rating": 93,
-"stufe": "bronze"
-},
-{
-"name": "FARO",
-"role": "ST",
-"rating": 76,
-"ki": true
-},
-{
-"name": "RIZZO",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "WALDO",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "TUSK",
-"role": "TW",
-"rating": 75,
-"ki": true
-},
-{
-"name": "PANTHER",
-"role": "MF",
-"rating": 92,
-"stufe": "bronze"
-},
-{
-"name": "ARROW",
-"role": "ST",
-"rating": 84,
-"ki": true
-},
-{
-"name": "ROCKY",
-"role": "ST",
-"rating": 81,
-"ki": true
-},
-{
-"name": "NEON",
-"role": "MF",
-"rating": 97,
-"stufe": "bronze"
-},
-{
-"name": "GENIUS",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "BRUTUS",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "VEX",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "TERRA",
-"role": "TW",
-"rating": 84,
-"ki": true
-},
-{
-"name": "TALON",
-"role": "ST",
-"rating": 84,
-"ki": true
-},
-{
-"name": "CUPID",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "LUMEN",
-"role": "DF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "ZIGZAG",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "MAVERICK",
-"role": "MF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "SALSA",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "SILVER",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "ZUMO",
-"role": "ST",
-"rating": 84,
-"ki": true
-},
-{
-"name": "FLINT",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "BORAN",
-"role": "MF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "CASSIO",
-"role": "ST",
-"rating": 77,
-"ki": true
-},
-{
-"name": "DELRAY",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "EMBRO",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "FINNO",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "GAVRO",
-"role": "ST",
-"rating": 73,
-"ki": true
-},
-{
-"name": "HAZEN",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "IKARO",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "JOVAN",
-"role": "MF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "KESTO",
-"role": "DF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "LUMIO",
-"role": "TW",
-"rating": 81,
-"ki": true
-},
-{
-"name": "MARVO",
-"role": "ST",
-"rating": 73,
-"ki": true
-},
-{
-"name": "NESKO",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "OBERON",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "PIKO",
-"role": "TW",
-"rating": 69,
-"ki": true
-},
-{
-"name": "QUENTO",
-"role": "MF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "RASMO",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "STORMY",
-"role": "TW",
-"rating": 66,
-"ki": true
-},
-{
-"name": "TAVIO",
-"role": "MF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "VEKTOR",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "AMOS",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "BRIXO",
-"role": "DF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "CORVO",
-"role": "MF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "DANTO",
-"role": "ST",
-"rating": 70,
-"ki": true
-},
-{
-"name": "ELIO",
-"role": "TW",
-"rating": 71,
-"ki": true
-},
-{
-"name": "GILBO",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "IVAR",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "JAKO",
-"role": "MF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "KEANO",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "LORIK",
-"role": "DF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "MATTEO",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "NANDO",
-"role": "ST",
-"rating": 83,
-"ki": true
-},
-{
-"name": "ORLO",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "QUIRIN",
-"role": "TW",
-"rating": 78,
-"ki": true
-},
-{
-"name": "SAMU",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "TOBIN",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "URBAN",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "VALDO",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "WILKO",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "YORICK",
-"role": "MF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "ADRIO",
-"role": "TW",
-"rating": 74,
-"ki": true
-},
-{
-"name": "BALTO",
-"role": "MF",
-"rating": 74,
-"ki": true
-},
-{
-"name": "BENNO",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "BOSKO",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "CALIX",
-"role": "TW",
-"rating": 83,
-"ki": true
-},
-{
-"name": "CEDRO",
-"role": "MF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "CIRO",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "DARIO",
-"role": "MF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "DEMIR",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "DORIAN",
-"role": "ST",
-"rating": 73,
-"ki": true
-},
-{
-"name": "EDDO",
-"role": "DF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "ELIAN",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "ENZO",
-"role": "TW",
-"rating": 74,
-"ki": true
-},
-{
-"name": "ERIK",
-"role": "ST",
-"rating": 81,
-"ki": true
-},
-{
-"name": "EZRA",
-"role": "ST",
-"rating": 81,
-"ki": true
-},
-{
-"name": "FABIO",
-"role": "MF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "FELIX",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "FENNO",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "FREDO",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "GALO",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "GINO",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "GORAN",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "GUSTL",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "HANNO",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "HARLO",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "HENRI",
-"role": "ST",
-"rating": 70,
-"ki": true
-},
-{
-"name": "IDRIS",
-"role": "ST",
-"rating": 66,
-"ki": true
-},
-{
-"name": "ILAN",
-"role": "ST",
-"rating": 79,
-"ki": true
-},
-{
-"name": "IMRE",
-"role": "DF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "ISKO",
-"role": "DF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "JANO",
-"role": "ST",
-"rating": 81,
-"ki": true
-},
-{
-"name": "JARIK",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "JESKO",
-"role": "DF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "JONTE",
-"role": "ST",
-"rating": 79,
-"ki": true
-},
-{
-"name": "JULIO",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "KALEB",
-"role": "DF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "KAMIL",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "KARIM",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "KEMAL",
-"role": "MF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "KIMO",
-"role": "MF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "KLAAS",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "KORBIN",
-"role": "DF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "LANDO",
-"role": "DF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "LARS",
-"role": "MF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "LENNO",
-"role": "MF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "LEVI",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "LIAM",
-"role": "MF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "LINUS",
-"role": "TW",
-"rating": 72,
-"ki": true
-},
-{
-"name": "LOUIS",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "LUKO",
-"role": "DF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "MADS",
-"role": "DF",
-"rating": 83,
-"ki": true
-},
-{
-"name": "MAREK",
-"role": "MF",
-"rating": 72,
-"ki": true
-},
-{
-"name": "MATTI",
-"role": "DF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "MERLIN",
-"role": "DF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "MIKA",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "MIRO",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "MORITZ",
-"role": "TW",
-"rating": 69,
-"ki": true
-},
-{
-"name": "NAEL",
-"role": "TW",
-"rating": 71,
-"ki": true
-},
-{
-"name": "NEVIO",
-"role": "ST",
-"rating": 83,
-"ki": true
-},
-{
-"name": "NILS",
-"role": "DF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "NOAH",
-"role": "DF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "NOEL",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "OLE",
-"role": "ST",
-"rating": 75,
-"ki": true
-},
-{
-"name": "OMAR",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "ONNO",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "OSMAN",
-"role": "ST",
-"rating": 76,
-"ki": true
-},
-{
-"name": "PAOLO",
-"role": "ST",
-"rating": 80,
-"ki": true
-},
-{
-"name": "PAVEL",
-"role": "ST",
-"rating": 77,
-"ki": true
-},
-{
-"name": "PELLE",
-"role": "MF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "PIET",
-"role": "ST",
-"rating": 72,
-"ki": true
-},
-{
-"name": "RAFI",
-"role": "MF",
-"rating": 81,
-"ki": true
-},
-{
-"name": "RAMI",
-"role": "MF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "RASMUS",
-"role": "ST",
-"rating": 72,
-"ki": true
-},
-{
-"name": "RAUL",
-"role": "ST",
-"rating": 68,
-"ki": true
-},
-{
-"name": "REMO",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "RIKO",
-"role": "ST",
-"rating": 74,
-"ki": true
-},
-{
-"name": "ROAN",
-"role": "DF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "RUBEN",
-"role": "MF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "RUNE",
-"role": "MF",
-"rating": 80,
-"ki": true
-},
-{
-"name": "SAMI",
-"role": "DF",
-"rating": 67,
-"ki": true
-},
-{
-"name": "SANDRO",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "SASCHA",
-"role": "DF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "SEPP",
-"role": "ST",
-"rating": 82,
-"ki": true
-},
-{
-"name": "SILAS",
-"role": "TW",
-"rating": 71,
-"ki": true
-},
-{
-"name": "SIMEON",
-"role": "DF",
-"rating": 79,
-"ki": true
-},
-{
-"name": "STEN",
-"role": "ST",
-"rating": 78,
-"ki": true
-},
-{
-"name": "TANO",
-"role": "MF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "TARIK",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "TEO",
-"role": "MF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "THEO",
-"role": "DF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "TIAGO",
-"role": "MF",
-"rating": 82,
-"ki": true
-},
-{
-"name": "TILL",
-"role": "DF",
-"rating": 68,
-"ki": true
-},
-{
-"name": "TIMO",
-"role": "MF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "TORBEN",
-"role": "DF",
-"rating": 66,
-"ki": true
-},
-{
-"name": "UGO",
-"role": "TW",
-"rating": 82,
-"ki": true
-},
-{
-"name": "ULF",
-"role": "DF",
-"rating": 73,
-"ki": true
-},
-{
-"name": "VASCO",
-"role": "MF",
-"rating": 70,
-"ki": true
-},
-{
-"name": "VINCE",
-"role": "DF",
-"rating": 84,
-"ki": true
-},
-{
-"name": "VITO",
-"role": "TW",
-"rating": 84,
-"ki": true
-},
-{
-"name": "WANJA",
-"role": "DF",
-"rating": 75,
-"ki": true
-},
-{
-"name": "WIM",
-"role": "DF",
-"rating": 77,
-"ki": true
-},
-{
-"name": "YANIK",
-"role": "MF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "YARO",
-"role": "ST",
-"rating": 69,
-"ki": true
-},
-{
-"name": "YUSUF",
-"role": "ST",
-"rating": 74,
-"ki": true
-},
-{
-"name": "ZACK",
-"role": "TW",
-"rating": 66,
-"ki": true
-},
-{
-"name": "ZENO",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "ZORAN",
-"role": "DF",
-"rating": 69,
-"ki": true
-},
-{
-"name": "ALVARO",
-"role": "DF",
-"rating": 71,
-"ki": true
-},
-{
-"name": "BJARNE",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "COSMO",
-"role": "MF",
-"rating": 78,
-"ki": true
-},
-{
-"name": "DUSKO",
-"role": "ST",
-"rating": 67,
-"ki": true
-},
-{
-"name": "EMRE",
-"role": "MF",
-"rating": 76,
-"ki": true
-},
-{
-"name": "FINJO",
-"role": "ST",
-"rating": 82,
-"ki": true
-}
+ {
+  "name": "NERO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "start"
+ },
+ {
+  "name": "SKY",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "start"
+ },
+ {
+  "name": "DANTE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "start"
+ },
+ {
+  "name": "ZAID",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "start"
+ },
+ {
+  "name": "BLADE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "start"
+ },
+ {
+  "name": "NOVAK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "start"
+ },
+ {
+  "name": "COBRA",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "start"
+ },
+ {
+  "name": "ECHO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "start"
+ },
+ {
+  "name": "SILESCROW",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "start"
+ },
+ {
+  "name": "FLASH",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "start"
+ },
+ {
+  "name": "FURY",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "start"
+ },
+ {
+  "name": "HAWK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "start"
+ },
+ {
+  "name": "JET",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "start"
+ },
+ {
+  "name": "KHAN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "start"
+ },
+ {
+  "name": "LYNX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "start"
+ },
+ {
+  "name": "LEO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "start"
+ },
+ {
+  "name": "LEGEND",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "start"
+ },
+ {
+  "name": "TITAN",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "start"
+ },
+ {
+  "name": "PIXEL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "start"
+ },
+ {
+  "name": "VIPER",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "start"
+ },
+ {
+  "name": "RAZOR",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "start"
+ },
+ {
+  "name": "TORNADO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "start"
+ },
+ {
+  "name": "STORM",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "start"
+ },
+ {
+  "name": "FALCON",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "start"
+ },
+ {
+  "name": "JINX",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "start"
+ },
+ {
+  "name": "ROCKET",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "start"
+ },
+ {
+  "name": "GRIZZLY",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "start"
+ },
+ {
+  "name": "TURBO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "start"
+ },
+ {
+  "name": "BLAZE",
+  "rating": 140,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "KAIRO",
+  "rating": 136,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "JUNO",
+  "rating": 127,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "VOLT",
+  "rating": 129,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "NOVA",
+  "rating": 138,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "GHOST",
+  "rating": 132,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "RONIN",
+  "rating": 134,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "ZEPHYR",
+  "rating": 125,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "AMARO",
+  "rating": 123,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "LORENZO",
+  "rating": 121,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "ZION",
+  "rating": 118,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "TAJO",
+  "rating": 114,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "MAKO",
+  "rating": 116,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "THORE",
+  "rating": 112,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "TANE",
+  "rating": 110,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "SPIKE",
+  "rating": 109,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "KENJI",
+  "rating": 103,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "FUEGO",
+  "rating": 115,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "BLITZ",
+  "rating": 111,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "KOFI",
+  "rating": 87,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "RAVEN",
+  "rating": 108,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "ROJO",
+  "rating": 106,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "VALENTIN",
+  "rating": 86,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ACE",
+  "rating": 109,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "JABARI",
+  "rating": 113,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "ORION",
+  "rating": 102,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "WOLF",
+  "rating": 117,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "VICTOR",
+  "rating": 87,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "KAITO",
+  "rating": 105,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "AKIN",
+  "rating": 86,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "MOSI",
+  "rating": 97,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "FROST",
+  "rating": 107,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "RICO",
+  "rating": 101,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "LUCIO",
+  "rating": 91,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "MILO",
+  "rating": 86,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "BRICK",
+  "rating": 86,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "KOJO",
+  "rating": 100,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "DRAKO",
+  "rating": 86,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "RYU",
+  "rating": 87,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ZANE",
+  "rating": 86,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ASH",
+  "rating": 104,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "TANK",
+  "rating": 88,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "REX",
+  "rating": 91,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "TOMI",
+  "rating": 94,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "CAIO",
+  "rating": 87,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "DUKE",
+  "rating": 86,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "BRUNO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "OSKAR",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "NIKO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "JONAS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MALIK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "EMIL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "OCEAN",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "BEAST",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "RHINO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "VENOM",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "VORTEX",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "KAISER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "MOKO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "KASPER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "MONK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "YUKON",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "SPECTRE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "DASH",
+  "rating": 95,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "EMBER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "SANTO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "RUBY",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "SPIRIT",
+  "rating": 90,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "NITRO",
+  "rating": 91,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ORCA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "GAMBIT",
+  "rating": 99,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "OLLIE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "FANG",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "JOKER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "URANO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "FROSTY",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "DIABLO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "OREO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "NAVI",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "LOTUS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "FOX",
+  "rating": 95,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "MUSTANG",
+  "rating": 87,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "OAK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "CRYSTAL",
+  "rating": 90,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "FIZZ",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "CAPTAIN",
+  "rating": 97,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ATLAS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "HAVOC",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "ELVIO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "SULTAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "SLIDER",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "DRIFT",
+  "rating": 99,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "PYRO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "SAMURAI",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "GORDO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "KARMA",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "CALYPSO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "KANE",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "SLOAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "DOC",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "BRAX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "SCORCH",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "ACEX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "MARS",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "CORSAIR",
+  "rating": 90,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "NOMAD",
+  "rating": 92,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "SPHINX",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "RAMON",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "HURRICANE",
+  "rating": 88,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "METEOR",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "ULTRA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "INDIGO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "HALO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "NOCTIS",
+  "rating": 98,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "SABER",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "MIRAGE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "GUSTO",
+  "rating": 99,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "VULCAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "ROMEO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "IRON",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "SHAKA",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "UMBRA",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "MIDAS",
+  "rating": 98,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "BISON",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "LASER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "OMEGA",
+  "rating": 90,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "CHILI",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "SONIC",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "XENON",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "YETI",
+  "rating": 95,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "TORO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "ZODIAC",
+  "rating": 86,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "EDGE",
+  "rating": 89,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "SHADOW",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "BOMBER",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "PILOT",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "VOODOO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "JUNIOR",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "PEPE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "APEX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "VERTIGO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "DINO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "BOLT",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "LUNAR",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "PABLO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "DOMINO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "RAGNAR",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "CACTUS",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "TONI",
+  "rating": 89,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "PLUTO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "PLASMA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "SNIPER",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "SKIPPER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "PUNCH",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "FORGE",
+  "rating": 88,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "RAMBO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "KOBRA",
+  "rating": 97,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "WASABI",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "KRAKEN",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "BLAST",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "STRIKER",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MARCO",
+  "rating": 94,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "AMIGO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "WRAITH",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "KRYPTO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "VOLCANO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "TROJAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "POPCORN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "STING",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "SHARK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "SMASH",
+  "rating": 94,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ROBIN",
+  "rating": 97,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "CRUZ",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "WARRIOR",
+  "rating": 93,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "MOOSE",
+  "rating": 90,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ARGO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "BENTO",
+  "rating": 96,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "AXEL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "DUNE",
+  "rating": 88,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "WIZARD",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "ONYX",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "SURGE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "PATCH",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "NUGGET",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "DELTA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "TORPEDO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "ROCCO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "JAX",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "KOBE",
+  "rating": 97,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "RIFT",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "CHIEF",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "ZIGGY",
+  "rating": 87,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "FROSTBITE",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "DAGGER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "TEMPO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "BASALT",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "SPRINT",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "YOGI",
+  "rating": 97,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "TANGO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "LOCO",
+  "rating": 95,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "BANDIT",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "SAMBA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "DORADO",
+  "rating": 93,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "NINJA",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "TAURUS",
+  "rating": 90,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "PIRANHA",
+  "rating": 99,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "STEEL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "REMY",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "TRACE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "SPARK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "XANDER",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "MACH",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "ECLIPSE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "TRIX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "TUCAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "PHANTOM",
+  "rating": 91,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "FUSION",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "IGLOO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "ZAP",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "GRANIT",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "CONDOR",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "RINGO",
+  "rating": 94,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "KILO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "PRISM",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "PHOENIX",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "RAPTOR",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "QUINTO",
+  "rating": 99,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "OPAL",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "RIO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "GLITCH",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MATRIX",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "SUMO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "RADAR",
+  "rating": 95,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "LUCKY",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "RUSTY",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "COMET",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MARLIN",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "QUAKE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "QUASAR",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "KAYO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "EAGLE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "SNAKE",
+  "rating": 89,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "JUMBO",
+  "rating": 86,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "HERO",
+  "rating": 93,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "SIRIUS",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "ORBIT",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "VANDAL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "GIZMO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "PEPPER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "SALVO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "ZORRO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "OTTO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "PRINCE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "PUMA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "BLAZER",
+  "rating": 92,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "MAXX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "SPINNER",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "ALPHA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "THUNDER",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "ZEST",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "NACHO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "BARON",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "QUILL",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "BRONCO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "BULLET",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "ZEUS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "AZTEK",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "SCOUT",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "MAMBA",
+  "rating": 90,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "TEJO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "JOLLY",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "CANNON",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "RUMBLE",
+  "rating": 93,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "FARO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "RIZZO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "WALDO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "TUSK",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "PANTHER",
+  "rating": 92,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "ARROW",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "ROCKY",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "NEON",
+  "rating": 97,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "bronze",
+  "art": "bronze"
+ },
+ {
+  "name": "GENIUS",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "BRUTUS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "VEX",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "TERRA",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "TALON",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "CUPID",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "LUMEN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "ZIGZAG",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "MAVERICK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "SALSA",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "SILVER",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "ZUMO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "FLINT",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "BORAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "CASSIO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "DELRAY",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "EMBRO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "FINNO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "GAVRO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "HAZEN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "IKARO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "JOVAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "KESTO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "LUMIO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "MARVO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "NESKO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "OBERON",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "PIKO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "QUENTO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "RASMO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "STORMY",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "TAVIO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "VEKTOR",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "AMOS",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "BRIXO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "CORVO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "DANTO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "ELIO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "GILBO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "IVAR",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "JAKO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "KEANO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "LORIK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "MATTEO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "NANDO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "ORLO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "QUIRIN",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "SAMU",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "TOBIN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "URBAN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "VALDO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "WILKO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "YORICK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "ADRIO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "BALTO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "BENNO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "BOSKO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "CALIX",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "CEDRO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "CIRO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "DARIO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "DEMIR",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "DORIAN",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "EDDO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "ELIAN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "ENZO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "ERIK",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "EZRA",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "FABIO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "FELIX",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "FENNO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "FREDO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "GALO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "GINO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "GORAN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "GUSTL",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "HANNO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "HARLO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "HENRI",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "IDRIS",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "ILAN",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "IMRE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "ISKO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "JANO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "JARIK",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "JESKO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "JONTE",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "JULIO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "KALEB",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "KAMIL",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "KARIM",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "KEMAL",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "KIMO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "KLAAS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "KORBIN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "LANDO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "LARS",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "LENNO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "LEVI",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "LIAM",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "LINUS",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "LOUIS",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "LUKO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MADS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MAREK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "MATTI",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "MERLIN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "MIKA",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "MIRO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "MORITZ",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "NAEL",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "NEVIO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "NILS",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "NOAH",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "NOEL",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "OLE",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "OMAR",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "ONNO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "OSMAN",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "PAOLO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "PAVEL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "PELLE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "PIET",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "RAFI",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "RAMI",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "RASMUS",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "RAUL",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "REMO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "RIKO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "ROAN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "RUBEN",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "RUNE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "SAMI",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "SANDRO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "SASCHA",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "SEPP",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "SILAS",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "SIMEON",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "STEN",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "TANO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "TARIK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "TEO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "THEO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "IV",
+  "art": "standard"
+ },
+ {
+  "name": "TIAGO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "TILL",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "TIMO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "TORBEN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "UGO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "ULF",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "VASCO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "VINCE",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "VITO",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "WANJA",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "WIM",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "YANIK",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "YARO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "RF",
+  "art": "standard"
+ },
+ {
+  "name": "YUSUF",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "ZACK",
+  "rating": 70,
+  "role": "TW",
+  "pos": "TW",
+  "art": "standard"
+ },
+ {
+  "name": "ZENO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "DM",
+  "art": "standard"
+ },
+ {
+  "name": "ZORAN",
+  "rating": 70,
+  "role": "DF",
+  "pos": "LV",
+  "art": "standard"
+ },
+ {
+  "name": "ALVARO",
+  "rating": 70,
+  "role": "DF",
+  "pos": "RV",
+  "art": "standard"
+ },
+ {
+  "name": "BJARNE",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "COSMO",
+  "rating": 70,
+  "role": "MF",
+  "pos": "OM",
+  "art": "standard"
+ },
+ {
+  "name": "DUSKO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "LF",
+  "art": "standard"
+ },
+ {
+  "name": "EMRE",
+  "rating": 70,
+  "role": "MF",
+  "pos": "ZM",
+  "art": "standard"
+ },
+ {
+  "name": "FINJO",
+  "rating": 70,
+  "role": "ST",
+  "pos": "MS",
+  "art": "standard"
+ },
+ {
+  "name": "SOLARIS",
+  "rating": 137,
+  "role": "ST",
+  "pos": "RF",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "VALERIO",
+  "rating": 133,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "KHALID",
+  "rating": 130,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "AKITO",
+  "rating": 128,
+  "role": "MF",
+  "pos": "OM",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "THORVALD",
+  "rating": 126,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "AZURO",
+  "rating": 124,
+  "role": "TW",
+  "pos": "TW",
+  "stufe": "gold",
+  "art": "gold"
+ },
+ {
+  "name": "CORBIN",
+  "rating": 112,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "DESHAWN",
+  "rating": 117,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "BRAKO",
+  "rating": 110,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "LUKAS",
+  "rating": 105,
+  "role": "DF",
+  "pos": "LV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "KWAME",
+  "rating": 115,
+  "role": "ST",
+  "pos": "MS",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "HIRO",
+  "rating": 108,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "MATEO",
+  "rating": 113,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "SANTIAGO",
+  "rating": 107,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "HALVAR",
+  "rating": 116,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "GOLIATH",
+  "rating": 111,
+  "role": "DF",
+  "pos": "RV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "ZEPHYRO",
+  "rating": 104,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "ZENKO",
+  "rating": 109,
+  "role": "ST",
+  "pos": "LF",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "MALIQ",
+  "rating": 106,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "TAIGA",
+  "rating": 102,
+  "role": "DF",
+  "pos": "IV",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "VIOLETTO",
+  "rating": 103,
+  "role": "MF",
+  "pos": "ZM",
+  "stufe": "silber",
+  "art": "silber"
+ },
+ {
+  "name": "NOCTURN",
+  "rating": 101,
+  "role": "MF",
+  "pos": "DM",
+  "stufe": "silber",
+  "art": "silber"
+ }
 ]
